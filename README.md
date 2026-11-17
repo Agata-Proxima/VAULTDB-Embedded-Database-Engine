@@ -382,7 +382,7 @@ Requirements:
 Clone the repository:
 
 ```bash
-git clone https://github.com/Scarlet-Twinz/VAULTDB-Embedded-Database-Engine.git
+git clone https://github.com/Agata-Proxima/VAULTDB-Embedded-Database-Engine.git
 cd VAULTDB-Embedded-Database-Engine
 ```
 
@@ -472,8 +472,8 @@ The required CI gate is green for the completed implementation.
 
 ## Project links
 
-- **Repository:** https://github.com/Scarlet-Twinz/VAULTDB-Embedded-Database-Engine
-- **GitHub:** https://github.com/Scarlet-Twinz
+- **Repository:** https://github.com/Agata-Proxima/VAULTDB-Embedded-Database-Engine
+- **GitHub:** https://github.com/Agata-Proxima
 
 ---
 
